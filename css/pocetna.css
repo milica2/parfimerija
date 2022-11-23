@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 *{
     margin:0;
     padding:0;
@@ -97,7 +96,6 @@ nav ul li a:hover{
     from{transform: rotate(0deg)}
     to{transform: rotate(360deg)}
 }
-</html>
 
 
 
