@@ -1,0 +1,4 @@
+User-agent : *
+Disallov:
+
+sitemap: https://github.com/milica2/parfimerija/blob/main/sitemap%20(1).xml
