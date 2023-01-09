@@ -80,7 +80,3 @@ nav ul li a:hover{
     font-weight: bold;
 }
 
-@keyframes animacija{
-    from{transform: rotate(0deg)}
-    to{transform: rotate(360deg)}
-}
