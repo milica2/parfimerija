@@ -92,11 +92,6 @@ nav ul li a:hover{
     text-align: center;
 }
 
-@keyframes animacija{
-    from{transform: rotate(0deg)}
-    to{transform: rotate(360deg)}
-}
-
 
 
 
